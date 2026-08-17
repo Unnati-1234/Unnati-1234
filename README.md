@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi 👋, I'm Unnati Bondre
+
+ Full Stack Developer | MERN Stack | C++ & DSA | Problem Solver
 
 <!--
 **Unnati-1234/Unnati-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
