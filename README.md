@@ -11,7 +11,6 @@
 - 🚀 Interested in building real-world and scalable web applications
 - 🧠 Currently strengthening Data Structures & Algorithms using C++
 - 🔐 Interested in secure and efficient web application development
-- ☁️ Exploring cloud computing and modern software technologies
 - 🤝 Strong communication, analytical thinking and team collaboration skills
 
 
@@ -92,7 +91,6 @@ Completed the Google Cloud Arcade program with hands-on exposure to Google Cloud
 - 📌 Data Structures & Algorithms using C++
 - 📌 Advanced C++
 - 📌 Full Stack Web Development
-- 📌 Cloud Computing
 - 📌 Problem Solving
 
 
