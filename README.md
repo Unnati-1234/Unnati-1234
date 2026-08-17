@@ -112,7 +112,7 @@ Problem Solving • Analytical Thinking • Communication • Team Collaboration
 
  🤝 Connect With Me
 
-💼 LinkedIn: [Unnati Bondre](www.linkedin.com/in/unnati-bondre56)
+💼 LinkedIn:(www.linkedin.com/in/unnati-bondre56)
 
 🐙 GitHub: [Unnati-1234](https://github.com/Unnati-1234)
 
