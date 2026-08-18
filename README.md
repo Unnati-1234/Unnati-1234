@@ -15,7 +15,7 @@
 
 
 
- 🛠️ Technical Skills
+**🛠️ Technical Skills**
 
  💻 Languages
 C++ | C | JavaScript | SQL | HTML | CSS
@@ -36,7 +36,9 @@ Git | GitHub | Postman | VS Code
 Object-Oriented Programming (OOP) | DBMS | Operating Systems | Data Structures & Algorithms
 
 
- 🚀 Projects
+ 
+ 
+ **🚀 Projects**
 
  📄 Resume Analyzer
 
@@ -53,7 +55,8 @@ A full-stack Resume Analyzer application that evaluates resumes against job desc
 **Tech Stack:** React.js | Node.js | Express.js | MongoDB | Mongoose | Multer | pdf-parse | Bootstrap | REST APIs
 
 
- 💼 Experience
+ 
+ **💼 Experience**
 
  🤝 Corporate Liaison Trainee
 **Pragya Technical Event**  
@@ -72,13 +75,15 @@ A full-stack Resume Analyzer application that evaluates resumes against job desc
 
 
 
- 🏆 Achievements
+
+ **🏆 Achievements**
 
 - 🥇 Zenith 2026 Women's Tournament — Semi-Finalist
 - 🎭 Participated in UTSAV Cultural Events 2024–25 and 2025–26
 
 
-📜 Certifications
+
+**📜 Certifications**
 
 ☁️ Google Cloud Arcade Program
 
@@ -86,7 +91,7 @@ Completed the Google Cloud Arcade program with hands-on exposure to Google Cloud
 
 
 
- 🧠 Currently Learning
+ **🧠 Currently Learning**
 
 - 📌 Data Structures & Algorithms using C++
 - 📌 Advanced C++
@@ -95,7 +100,7 @@ Completed the Google Cloud Arcade program with hands-on exposure to Google Cloud
 
 
 
- 🌟 Soft Skills
+ **🌟 Soft Skills**
 
 Problem Solving • Analytical Thinking • Communication • Team Collaboration • Quick Learner • Adaptability
 
