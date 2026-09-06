@@ -1,124 +1,111 @@
- Hi 👋, I'm Unnati Anil Bondre
+# Hi 👋, I'm Unnati Anil Bondre
 
- B.Tech Student | Full Stack Developer | MERN Stack | C++ & DSA | Problem Solver
+### B.Tech Student | Full Stack Developer | C++ & DSA | Problem Solver
 
+---
 
-
- 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 Final-year B.Tech student in Electronics and Telecommunication Engineering
-- 💻 Full-stack developer with hands-on experience in MERN stack development
-- 🚀 Interested in building real-world and scalable web applications
-- 🧠 Currently strengthening Data Structures & Algorithms using C++
-- 🔐 Interested in secure and efficient web application development
-- 🤝 Strong communication, analytical thinking and team collaboration skills
+- 💻 Full-stack developer with hands-on experience in React, Node.js and Express.js
+- 🚀 Interested in building practical and scalable web applications
+- 🧠 Strengthening Data Structures & Algorithms using C++
+- 🔐 Interested in secure and efficient software development
+- 🤝 Strong in communication, problem-solving and teamwork
 
+---
 
+## 🛠️ Technical Skills
 
-**🛠️ Technical Skills**
-
- 💻 Languages
+**Languages:**  
 C++ | C | JavaScript | SQL | HTML | CSS
 
- 🌐 Frontend Development
-HTML | CSS | JavaScript | React.js | Tailwind CSS | Bootstrap | Redux
+**Frontend:**  
+React.js | Vite | Tailwind CSS | Bootstrap | Redux
 
- ⚙️ Backend Development
-Node.js | Express.js | REST APIs | EJS | JWT Authentication
+**Backend:**  
+Node.js | Express.js | REST APIs | JWT
 
-🗄️ Database
-MongoDB | Mongoose | MySQL
+**Database:**  
+PostgreSQL | MongoDB | MySQL
 
- 🔧 Developer Tools
+**Tools:**  
 Git | GitHub | Postman | VS Code
 
- 🧠 Core CS
-Object-Oriented Programming (OOP) | DBMS | Operating Systems | Data Structures & Algorithms
+**Core CS:**  
+Data Structures & Algorithms | OOP | DBMS | Operating Systems
 
+---
 
- 
- 
- **🚀 Projects**
+## 🚀 Projects
 
- 📄 Resume Analyzer
+### 📄 Resume Analyzer
 
-**January 2026 – March 2026**
+A full-stack resume analysis platform that evaluates resumes, provides ATS-style analysis, identifies strengths and weaknesses, and matches resumes with job requirements.
 
-A full-stack Resume Analyzer application that evaluates resumes against job descriptions and provides ATS-style analysis.
+- 📄 Implemented PDF and DOCX resume upload with automated text extraction using Multer, pdf-parse and Mammoth.
+- 📊 Developed rule-based resume analysis to calculate overall scores, section scores, skill scores and content-related metrics.
+- 🎯 Built resume-to-job-description matching to identify matching skills, missing skills and generate a match score.
+- 🔐 Implemented JWT authentication, bcrypt password hashing and protected API routes for secure user-specific data access.
+- 🗄️ Designed and integrated PostgreSQL database for storing users, resumes and analysis results.
+- 🌐 Deployed the React frontend and Express.js backend on Render with PostgreSQL hosted on Neon.
 
-- 📄 Implemented PDF resume upload and automated text extraction using Multer and pdf-parse.
-- 🔍 Developed ATS analysis and job-description comparison functionality.
-- ⚙️ Built RESTful APIs using Node.js and Express.js for resume processing, job-description comparison and ATS analysis.
-- 📊 Generated resume-to-job-description match scores and identified missing or relevant skills.
-- 🗄️ Integrated MongoDB with Mongoose to store and manage resume and analysis-related data.
+**Tech Stack:** React.js | Vite | Tailwind CSS | Node.js | Express.js | PostgreSQL | JWT | Multer | pdf-parse | Mammoth
 
-**Tech Stack:** React.js | Node.js | Express.js | MongoDB | Mongoose | Multer | pdf-parse | Bootstrap | REST APIs
+🌐 **Live Demo:** https://resume-analyzer-2-c9vj.onrender.com
 
+💻 **GitHub:** https://github.com/Unnati-1234/resume-analyzer
 
- 
- **💼 Experience**
+---
 
- 🤝 Corporate Liaison Trainee
-**Pragya Technical Event**  
-*March 2026 – April 2026*
+## 💼 Experience
 
-- Supported communication and coordination with corporate participants during the Pragya Technical Event.
-- Assisted with professional interaction and event coordination to facilitate effective communication between participants and stakeholders.
+### 🤝 Corporate Liaison Trainee — Pragya Technical Event
+**March 2026 – April 2026**
 
- 🚀 Project and Innovation Lead
-**ELITE Departmental Club**  
-*July 2025 – August 2026*
+- Supported communication and coordination with corporate participants.
+- Assisted in professional interaction and event coordination.
 
-- Led technical talks, workshops and hackathons, driving innovation across the department.
-- Coordinated cross-functional teams and technical events to maximize student participation.
-- Fostered a collaborative environment that strengthened student engagement with emerging technologies.
+### 🚀 Project and Innovation Lead — ELITE Departmental Club
+**July 2025 – August 2026**
 
+- Led technical talks, workshops and hackathons.
+- Coordinated teams and technical events.
+- Encouraged student participation in technical and innovation activities.
 
+---
 
-
- **🏆 Achievements**
+## 🏆 Achievements
 
 - 🥇 Zenith 2026 Women's Tournament — Semi-Finalist
 - 🎭 Participated in UTSAV Cultural Events 2024–25 and 2025–26
 
+---
 
+## 📜 Certifications
 
-**📜 Certifications**
+### ☁️ Google Cloud Arcade Program
 
-☁️ Google Cloud Arcade Program
+Completed the Google Cloud Arcade program with hands-on exposure to Google Cloud services and practical cloud computing exercises.
 
-Completed the Google Cloud Arcade program with hands-on exposure to Google Cloud services, cloud computing concepts and practical laboratory exercises.
+---
 
+## 🧠 Currently Learning
 
+- Data Structures & Algorithms using C++
+- Advanced C++
+- Full Stack Development
+- Problem Solving
+- Cloud Technologies
 
- **🧠 Currently Learning**
+---
 
-- 📌 Data Structures & Algorithms using C++
-- 📌 Advanced C++
-- 📌 Full Stack Web Development
-- 📌 Problem Solving
+## 🤝 Connect With Me
 
+💼 **LinkedIn:** https://www.linkedin.com/in/unnati-bondre56
 
+🐙 **GitHub:** https://github.com/Unnati-1234
 
- **🌟 Soft Skills**
-
-Problem Solving • Analytical Thinking • Communication • Team Collaboration • Quick Learner • Adaptability
-
-
-
- 📊 GitHub
-
-- 🔭 Working on improving my full-stack development and DSA skills
-- 📚 Continuously learning and building projects
-- 🚀 Exploring new technologies and real-world software solutions
-
-
- 🤝 Connect With Me
-
-💼 LinkedIn:(www.linkedin.com/in/unnati-bondre56)
-
-🐙 GitHub: [Unnati-1234](https://github.com/Unnati-1234)
-
-
+---
 
 ⭐ Thanks for visiting my profile!
