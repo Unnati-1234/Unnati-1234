@@ -56,6 +56,22 @@ A full-stack resume analysis platform that evaluates resumes, provides ATS-style
 
 💻 **GitHub:** https://github.com/Unnati-1234/resume-analyzer
 
+
+### ⚙️ Distributed Job Scheduler
+
+A full-stack distributed job scheduling platform for creating, scheduling, executing and monitoring background jobs across distributed workers.
+
+* ⚙️ Built job queues, scheduling, worker management, retries and execution tracking for reliable job processing.
+* 🔄 Implemented Dead Letter Queue (DLQ) handling with failed-job inspection and requeue functionality.
+* 🔐 Developed JWT authentication, organization/member management and role-based access control.
+* 📊 Built monitoring dashboards for job metrics, execution status and worker activity.
+* 🗄️ Integrated PostgreSQL with Prisma ORM and developed REST APIs using Node.js and Express.js.
+
+**Tech Stack:** Node.js | TypeScript | Express.js | React.js | PostgreSQL | Prisma | JWT | Jest | Vite
+
+💻 **GitHub:** https://github.com/Unnati-1234/Job_Scheduler
+
+
 ---
 
 ## 💼 Experience
