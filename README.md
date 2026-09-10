@@ -40,36 +40,33 @@ Data Structures & Algorithms | OOP | DBMS | Operating Systems
 ## 🚀 Projects
 
 ### 📄 Resume Analyzer
+### 📄 **Resume Analyzer**
 
-A full-stack resume analysis platform that evaluates resumes, provides ATS-style analysis, identifies strengths and weaknesses, and matches resumes with job requirements.
+**Tech Stack:** **React.js | Vite | Tailwind CSS | Node.js | Express.js | PostgreSQL | JWT | bcrypt | Multer | pdf-parse | Mammoth**
 
-- 📄 Implemented PDF and DOCX resume upload with automated text extraction using Multer, pdf-parse and Mammoth.
-- 📊 Developed rule-based resume analysis to calculate overall scores, section scores, skill scores and content-related metrics.
-- 🎯 Built resume-to-job-description matching to identify matching skills, missing skills and generate a match score.
-- 🔐 Implemented JWT authentication, bcrypt password hashing and protected API routes for secure user-specific data access.
-- 🗄️ Designed and integrated PostgreSQL database for storing users, resumes and analysis results.
-- 🌐 Deployed the React frontend and Express.js backend on Render with PostgreSQL hosted on Neon.
-
-**Tech Stack:** React.js | Vite | Tailwind CSS | Node.js | Express.js | PostgreSQL | JWT | Multer | pdf-parse | Mammoth
+* Built a **full-stack resume analysis platform** for **ATS-style resume evaluation, skill identification, strengths/weaknesses analysis, and job-description matching**.
+* Implemented **PDF/DOCX upload and automated text extraction** using **Multer, pdf-parse, and Mammoth**, with **rule-based scoring** for overall, section, skill, and content metrics.
+* Developed **resume-to-job-description matching** to identify **matching skills, missing skills, and overall match score**.
+* Implemented **JWT authentication, bcrypt password hashing, and protected REST APIs** for secure **user-specific data access**.
+* Designed and integrated **PostgreSQL** for storing **users, resumes, and analysis results**, and deployed the **React frontend and Express.js backend on Render** with **Neon PostgreSQL**.
 
 🌐 **Live Demo:** https://resume-analyzer-2-c9vj.onrender.com
-
 💻 **GitHub:** https://github.com/Unnati-1234/resume-analyzer
 
 
-### ⚙️ Distributed Job Scheduler
 
-A full-stack distributed job scheduling platform for creating, scheduling, executing and monitoring background jobs across distributed workers.
+### ⚙️ **Distributed Job Scheduler**
 
-* ⚙️ Built job queues, scheduling, worker management, retries and execution tracking for reliable job processing.
-* 🔄 Implemented Dead Letter Queue (DLQ) handling with failed-job inspection and requeue functionality.
-* 🔐 Developed JWT authentication, organization/member management and role-based access control.
-* 📊 Built monitoring dashboards for job metrics, execution status and worker activity.
-* 🗄️ Integrated PostgreSQL with Prisma ORM and developed REST APIs using Node.js and Express.js.
+**Tech Stack:** **Node.js | TypeScript | Express.js | React.js | PostgreSQL | Prisma | JWT | Jest | Vite**
 
-**Tech Stack:** Node.js | TypeScript | Express.js | React.js | PostgreSQL | Prisma | JWT | Jest | Vite
+* Built a **full-stack distributed job scheduling platform** for **creating, scheduling, executing, and monitoring background jobs** across distributed workers.
+* Implemented **job queues, scheduling, worker management, retries, execution tracking, and Dead Letter Queue (DLQ)** handling with failed-job inspection and requeue functionality.
+* Developed **JWT authentication**, **organization/member management**, and **role-based access control (RBAC)** for secure multi-user job management.
+* Built **monitoring dashboards** for **job metrics, execution status, and worker activity**, with **PostgreSQL + Prisma** and **REST APIs** using Node.js and Express.js.
 
 💻 **GitHub:** https://github.com/Unnati-1234/Job_Scheduler
+🌐 **Live Demo:** https://runline.onrender.com
+
 
 
 ---
