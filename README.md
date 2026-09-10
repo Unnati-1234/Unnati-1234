@@ -27,10 +27,10 @@ React.js | Vite | Tailwind CSS | Bootstrap | Redux
 Node.js | Express.js | REST APIs | JWT
 
 **Database:**  
-PostgreSQL | MongoDB | MySQL
+Prisma |PostgreSQL | MongoDB | MySQL |J
 
 **Tools:**  
-Git | GitHub | Postman | VS Code
+Git | GitHub | Postman | VS Code |Jest
 
 **Core CS:**  
 Data Structures & Algorithms | OOP | DBMS | Operating Systems
